@@ -15,6 +15,9 @@ public class PriorityQueueDemo {
 		priorityQue.offer(-4);
 		
 		System.out.println(priorityQue);
+		
+		System.out.println("hello");
+		
 
 	}
 
